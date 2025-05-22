@@ -8,8 +8,8 @@
 Design your dream home, apartment, or office space in **2D**, and visualize it in **3D** with ease and precision.
 
 <p align="center">
-  <a href="https://github.com/ТВОЙ-ПОЛЬЗОВАТЕЛЬ/ТВОЙ-РЕПОЗИТОРИЙ/releases/latest">
-    <img src="https://img.shields.io/badge/⬇️ Скачать-SweetHome3D-blue?style=for-the-badge&logo=github" alt="Скачать SweetHome 3D">
+  <a href="https://github.com/YOUR-USERNAME/YOUR-REPO/releases/latest" target="_blank">
+    <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20NOW-SWEETHOME3D-1f8ceb?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Download SweetHome 3D" height="60">
   </a>
 </p>
 
