@@ -39,6 +39,7 @@ Design your dream home, apartment, or office space in **2D**, and visualize it i
 - **Print & Share**  
   Export high-quality PDFs, images, and videos of your projects for presentations or collaboration.
 
+
 ---
 
 ## 🚀 Installation
@@ -46,6 +47,10 @@ Design your dream home, apartment, or office space in **2D**, and visualize it i
 1. **Download** the latest release from this repository.  
 2. **Run** the installer for your platform (Windows, macOS, or Linux).  
 3. **Launch** SweetHome 3D — no sign-up or internet connection required.
+
+
+https://github.com/user-attachments/assets/8acbcde5-68be-42d7-8f35-a473647f754c
+
 
 ---
 
