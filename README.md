@@ -7,6 +7,13 @@
 
 Design your dream home, apartment, or office space in **2D**, and visualize it in **3D** with ease and precision.
 
+<p align="center">
+  <a href="https://github.com/ТВОЙ-ПОЛЬЗОВАТЕЛЬ/ТВОЙ-РЕПОЗИТОРИЙ/releases/latest">
+    <img src="https://img.shields.io/badge/⬇️ Скачать-SweetHome3D-blue?style=for-the-badge&logo=github" alt="Скачать SweetHome 3D">
+  </a>
+</p>
+
+
 ---
 
 ## 🔍 Key Features
